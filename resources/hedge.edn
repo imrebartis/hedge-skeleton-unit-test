@@ -1,0 +1,2 @@
+{:api {"my-super-data-cruncher" {:authorization :anonymous,
+                :handler my-cool-function.core/crunch-my-data-function}}}
